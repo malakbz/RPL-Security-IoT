@@ -4,7 +4,10 @@
 This project focuses on evaluating the resilience of the RPL routing protocol in IoT networks against a black hole attack. Using Contiki Cooja, we simulated the RPL protocol, generated a black hole attack, and collected performance metrics such as delay, PDR, overhead, and energy consumption. The results helped assess the impact of the attack and identify the security vulnerabilities of RPL.
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Utilities Used</h2>
+<b>Contiki</b>
+<b>Cooja</b>
+<b>VirtualBox</b>
 
 
 <h2>Walkthrough</h2>
