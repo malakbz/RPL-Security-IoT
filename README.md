@@ -5,8 +5,8 @@ This project focuses on evaluating the resilience of the RPL routing protocol in
 
 
 <h2>Utilities Used</h2>
-<b>Contiki</b>
-<b>Cooja</b>
+<b>Contiki-</b>
+<b>Cooja-</b>
 <b>VirtualBox</b>
 
 
@@ -29,7 +29,7 @@ This project focuses on evaluating the resilience of the RPL routing protocol in
 4- Install Cooja dependencies : 
 <img src="https://imgur.com/HzdkcDx.png"  height="80%" width="80%" alt="landing page"/> 
 <br>
-5- Lancement de Cooja : 
+5- Starting Cooja : 
 <img src="https://imgur.com/s9qqzzH.png"  height="80%" width="80%" alt="landing page"/> 
 <br>
 <h3>Execution of the RPL protocol</h3>
